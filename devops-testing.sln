@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.31321.278
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devops-testing", "devops-testing\devops-testing.csproj", "{53B74E30-8A56-4CB1-82E9-D8D5D2ECFA9D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "devops-unittests", "devops-unittests\devops-unittests.csproj", "{3D54811C-965E-46FD-82BA-57F2B395B627}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{53B74E30-8A56-4CB1-82E9-D8D5D2ECFA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{53B74E30-8A56-4CB1-82E9-D8D5D2ECFA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{53B74E30-8A56-4CB1-82E9-D8D5D2ECFA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D54811C-965E-46FD-82BA-57F2B395B627}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D54811C-965E-46FD-82BA-57F2B395B627}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D54811C-965E-46FD-82BA-57F2B395B627}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D54811C-965E-46FD-82BA-57F2B395B627}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
